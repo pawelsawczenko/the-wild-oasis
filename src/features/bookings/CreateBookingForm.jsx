@@ -189,7 +189,7 @@ function CreateBookingForm({ onCloseModal }) {
         fullName,
         email,
         nationalID,
-        country,
+        nationality: country,
       },
       booking: {
         extrasPrice,
